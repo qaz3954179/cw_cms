@@ -1,0 +1,11 @@
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\obj\Debug\GMS.Site.Contract.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\GMS.Site.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\GMS.Site.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\EntityFramework.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\GMS.Framework.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\GMS.Framework.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\GMS.Framework.Contract.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\bin\Debug\EntityFramework.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\obj\Debug\GMS.Site.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Site.Contract\obj\Debug\GMS.Site.Contract.pdb

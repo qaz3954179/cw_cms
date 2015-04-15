@@ -1,0 +1,5 @@
+E:\Personal Development\GitGMS\bin\GMS.Framework.BLL.XML
+E:\Personal Development\GitGMS\bin\GMS.Framework.BLL.dll
+E:\Personal Development\GitGMS\bin\GMS.Framework.BLL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb

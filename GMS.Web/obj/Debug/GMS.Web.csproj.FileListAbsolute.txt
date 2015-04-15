@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Web.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Web.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Web\obj\Debug\GMS.Web.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Web\obj\Debug\GMS.Web.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Web\obj\Debug\GMS.Web.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Web\obj\Debug\GMS.Web.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Web\obj\Debug\GMS.Web.pdb
+E:\Personal Development\GitGMS\bin\GMS.Web.dll
+E:\Personal Development\GitGMS\bin\GMS.Web.pdb

@@ -58,5 +58,12 @@ namespace GMS.Account.Contract
         ProductManage_ProductType = 501,
         [EnumTitle("产品详细")]
         ProductManage_ProductItem = 502,
+
+
+        [EnumTitle("站点管理")]
+        SiteManage_Config = 601,
+
+        [EnumTitle("广告管理")]
+        SiteManage_Advert = 602,
     }
 }

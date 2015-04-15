@@ -1,0 +1,27 @@
+{
+  "name": "womai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "gulp": "^3.8.11",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-watch": "^4.2.2",
+    "nib": "^1.1.0",
+    "stylus": "^0.50.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-stylus": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "yongqiang.sun",
+  "license": "MIT"
+}

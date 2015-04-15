@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Module.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Module\obj\Debug\GMS.Core.Module.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Module\obj\Debug\GMS.Core.Module.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Module\obj\Debug\GMS.Core.Module.pdb
+E:\Personal Development\GitGMS\bin\GMS.Core.Module.dll
+E:\Personal Development\GitGMS\bin\GMS.Core.Module.pdb

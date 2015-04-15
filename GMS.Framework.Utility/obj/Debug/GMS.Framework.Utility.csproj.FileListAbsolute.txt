@@ -4,3 +4,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.Utility.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.pdb
+E:\Personal Development\GitGMS\bin\GMS.Framework.Utility.XML
+E:\Personal Development\GitGMS\bin\GMS.Framework.Utility.dll
+E:\Personal Development\GitGMS\bin\GMS.Framework.Utility.pdb

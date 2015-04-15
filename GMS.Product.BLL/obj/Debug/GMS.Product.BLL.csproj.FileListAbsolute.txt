@@ -28,3 +28,33 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.BLL\bin\Debug\GMS.Core.Lo
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\obj\Debug\GMS.Product.BLL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.BLL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.BLL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\EntityFramework.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\EntityFramework.Extended.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Cache.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Utility.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Config.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Log.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\log4net.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Cache.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Contract.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.DAL.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Utility.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Framework.Utility.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Product.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\EntityFramework.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\EntityFramework.Extended.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Config.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.BLL\bin\Debug\GMS.Core.Log.pdb

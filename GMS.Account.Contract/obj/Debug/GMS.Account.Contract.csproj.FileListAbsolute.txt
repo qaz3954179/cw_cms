@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Account.Contract.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.Contract\obj\Debug\GMS.Account.Contract.pdb
+E:\Personal Development\GitGMS\bin\GMS.Account.Contract.dll
+E:\Personal Development\GitGMS\bin\GMS.Account.Contract.pdb

@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Upload.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+E:\Personal Development\GitGMS\bin\GMS.Core.Upload.dll
+E:\Personal Development\GitGMS\bin\GMS.Core.Upload.pdb

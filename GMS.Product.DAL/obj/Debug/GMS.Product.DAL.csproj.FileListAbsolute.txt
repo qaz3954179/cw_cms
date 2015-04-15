@@ -22,3 +22,27 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.DAL\bin\Debug\GMS.Framewo
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\obj\Debug\GMS.Product.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Product.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Product.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\EntityFramework.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Core.Config.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Core.Log.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Product.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Utility.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\log4net.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Core.Config.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Core.Log.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Contract.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.DAL.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Product.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\EntityFramework.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Utility.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.DAL\bin\Debug\GMS.Framework.Utility.xml

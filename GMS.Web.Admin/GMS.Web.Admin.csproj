@@ -55,6 +55,9 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\..\..\Lib\System.Web.Optimization.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
     </Reference>
@@ -94,6 +97,9 @@
     <Compile Include="Areas\Product\Controllers\ProductItemController.cs" />
     <Compile Include="Areas\Product\Controllers\ProductTypeController.cs" />
     <Compile Include="Areas\Product\ProductAreaRegistration.cs" />
+    <Compile Include="Areas\Site\Controllers\AdvertController.cs" />
+    <Compile Include="Areas\Site\Controllers\ManagerController.cs" />
+    <Compile Include="Areas\Site\SiteAreaRegistration.cs" />
     <Compile Include="Common\AdminCookieContext.cs" />
     <Compile Include="Common\AdminUserContext.cs" />
     <Compile Include="Common\AdminControllerBase.cs" />
@@ -402,6 +408,7 @@
     <Content Include="Assets\clockface\CHANGELOG.txt" />
     <Content Include="Assets\clockface\css\clockface.css" />
     <Content Include="Assets\clockface\js\clockface.js" />
+    <Content Include="Assets\css\index.css" />
     <Content Include="Assets\css\metro.css" />
     <Content Include="Assets\css\style.css" />
     <Content Include="Assets\css\style_blue.css" />
@@ -634,6 +641,26 @@
     <Content Include="Assets\img\icon-color.png" />
     <Content Include="Assets\img\icon-img-down.png" />
     <Content Include="Assets\img\icon-img-up.png" />
+    <Content Include="Assets\img\index\adv.png" />
+    <Content Include="Assets\img\index\banner1.png" />
+    <Content Include="Assets\img\index\banner2.png" />
+    <Content Include="Assets\img\index\close.png" />
+    <Content Include="Assets\img\index\fuzhuang.jpg" />
+    <Content Include="Assets\img\index\fuzhuang2.jpg" />
+    <Content Include="Assets\img\index\layout31.png" />
+    <Content Include="Assets\img\index\layout32.png" />
+    <Content Include="Assets\img\index\login.png" />
+    <Content Include="Assets\img\index\logo.png" />
+    <Content Include="Assets\img\index\qiche-520-280.jpg" />
+    <Content Include="Assets\img\index\qq.png" />
+    <Content Include="Assets\img\index\qrcode.png" />
+    <Content Include="Assets\img\index\row21.jpg" />
+    <Content Include="Assets\img\index\row21.png" />
+    <Content Include="Assets\img\index\row22.jpg" />
+    <Content Include="Assets\img\index\row22.png" />
+    <Content Include="Assets\img\index\row23.jpg" />
+    <Content Include="Assets\img\index\row23.png" />
+    <Content Include="Assets\img\index\shuma-520-280.jpg" />
     <Content Include="Assets\img\invoice\walmart.png" />
     <Content Include="Assets\img\loading.gif" />
     <Content Include="Assets\img\logo-big.png" />
@@ -1270,6 +1297,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Areas\Site\Models\" />
+    <Folder Include="Areas\Site\Views\Shared\" />
     <Folder Include="Assets\jquery-file-upload\server\php\files\thumbnail\" />
     <Folder Include="Models\" />
     <Folder Include="Upload\" />
@@ -1314,6 +1343,11 @@
     <Content Include="Areas\Cms\Views\SelfStatic\EditArticle.cshtml" />
     <Content Include="Areas\Cms\Views\SelfPic\EditArticle.cshtml" />
     <Content Include="Areas\Cms\Views\SelfPic\IndexPic.cshtml" />
+    <Content Include="Areas\Site\Views\Index.cshtml" />
+    <Content Include="Areas\Site\Views\Manager\Index.cshtml" />
+    <Content Include="Areas\Site\Views\Web.config" />
+    <Content Include="Areas\Site\Views\Advert\Edit.cshtml" />
+    <Content Include="Areas\Site\Views\Advert\Index.cshtml" />
     <None Include="Assets\bootstrap-colorpicker\less\colorpicker.less" />
     <None Include="Assets\bootstrap-datepicker\less\datepicker.less" />
     <None Include="Assets\bootstrap-daterangepicker\README.md" />
@@ -1519,6 +1553,11 @@
     <Content Include="FileUpload.ashx" />
     <None Include="Properties\PublishProfiles\文件系统.pubxml" />
     <None Include="Properties\PublishProfiles\测试.pubxml" />
+    <Content Include="Views\Shared\FrontFooter.cshtml" />
+    <Content Include="Views\Shared\FrontHeader.cshtml" />
+    <Content Include="Views\Shared\FrontLayout.cshtml" />
+    <Content Include="Views\Shared\FrontNav.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GMS.Account.BLL\GMS.Account.BLL.csproj">
@@ -1572,6 +1611,10 @@
     <ProjectReference Include="..\GMS.Product.Contract\GMS.Product.Contract.csproj">
       <Project>{bb034ff6-4da7-4911-bcdd-ac01dcd06c6d}</Project>
       <Name>GMS.Product.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Site.Contract\GMS.Site.Contract.csproj">
+      <Project>{294da375-abf5-4a3c-85f5-33d135d2bb70}</Project>
+      <Name>GMS.Site.Contract</Name>
     </ProjectReference>
     <ProjectReference Include="..\GMS.Web\GMS.Web.csproj">
       <Project>{E905FFE6-A1D5-48B2-81B7-8E8D4BC5F895}</Project>

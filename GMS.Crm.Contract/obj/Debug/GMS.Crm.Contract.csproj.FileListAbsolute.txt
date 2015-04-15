@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Crm.Contract.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+E:\Personal Development\GitGMS\bin\GMS.Crm.Contract.dll
+E:\Personal Development\GitGMS\bin\GMS.Crm.Contract.pdb

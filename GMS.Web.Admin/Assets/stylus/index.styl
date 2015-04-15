@@ -1,0 +1,79 @@
+﻿@import 'base.styl'
+@import 'header.styl'
+@import 'nav.styl'
+@import 'footer.styl'
+.banner
+	img
+		width 550px
+		height 300px
+.news
+	h2
+		font-weight 900
+		color #006fc6
+		span
+			padding-left 10px
+			font-weight normal
+			font-size 12px
+	.more
+		float right
+		margin-top -30px
+	.title
+		border-bottom 1px solid #ddd
+	.news-content
+		padding 10px 0px
+		li
+			height 30px
+			list-style-type square
+			a
+				line-height 30px
+				display block
+				color #666
+			.time
+				float right
+				font-weight 700
+.art
+	line-height 25px
+	text-indent 2em
+	color #666
+
+.banner
+	position relative
+	overflow auto
+	width 100%
+	.dots
+		position absolute
+		left 0
+		right 0
+		bottom 20px
+		width 100%
+		li
+			display inline-block
+			*display inline
+			zoom 1
+			width 10px
+			height 10px
+			line-height 10px
+			margin 0 4px
+			text-indent -999em
+			*text-indent 0
+			border 2px solid #fff
+			border-radius 6px
+			cursor pointer
+			opacity 0.4
+		.active
+			background-color #fff
+			opacity 1
+.row2
+	a
+		display block
+		text-indent 2em
+		line-height 30px
+		color #666
+.rowa21
+	margin-top -16px
+.rowa22
+	margin-top -28px
+.rowa23
+	margin-top -22px
+.row-fluid
+	margin-bottom 10px

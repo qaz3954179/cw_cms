@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Account.BLL.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.pdb
+E:\Personal Development\GitGMS\bin\GMS.Account.BLL.dll
+E:\Personal Development\GitGMS\bin\GMS.Account.BLL.pdb

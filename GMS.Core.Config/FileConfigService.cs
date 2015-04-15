@@ -26,7 +26,7 @@ namespace GMS.Core.Config
         public void SaveConfig(string fileName, string content)
         {
             var configPath = GetFilePath(fileName);
-            File.WriteAllText(configPath, content);
+            File.WriteAllText(configPath, content, System.Text.Encoding.UTF8);
         }
 
         public string GetFilePath(string fileName)

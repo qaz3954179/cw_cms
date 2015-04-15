@@ -7,6 +7,7 @@ using GMS.Cms.Contract;
 using GMS.Crm.Contract;
 using GMS.OA.Contract;
 using GMS.Product.Contract;
+using GMS.Site.Contract;
 
 namespace GMS.Web
 {
@@ -55,6 +56,13 @@ namespace GMS.Web
             get
             {
                 return ServiceHelper.CreateService<IProductService>();
+            }
+        }
+        public ISiteService SiteService
+        {
+            get
+            {
+                return ServiceHelper.CreateService<ISiteService>();
             }
         }
     }

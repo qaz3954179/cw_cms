@@ -1,74 +1,142 @@
-﻿@{
+﻿@using GMS.Site.Contract.Model;
+@using GMS.Framework.Contract
+@using GMS.Framework.Web.Controls
+@using GMS.Web
+@model SiteInfo
+@{
     ViewBag.Title = "网站信息配置";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@Html.BeginForm("Index", "Manager") {
+@section PageSpecificJavascriptIncludes{
+    <script type="text/javascript" src="@Url.StaticFile("/content/scripts/flashupload.js")"></script>
+    <script type="text/javascript" src="@Url.StaticFile("/content/xheditor/xheditor-1.1.6-zh-cn.min.js")"></script>
+    <script type="text/javascript" src="@Url.StaticFile("/assets/jquery-tags-input/jquery.tagsinput.js")"></script>
+    <script type="text/javascript">
+
+        function bindFileUpload(uploader, input, perview, queue) {
+            $('#' + uploader).FileUpload({
+                'subfolder': 'advert',
+                'queueID': queue,
+                'callback': function (msg) {
+                    //msg.url为图片地址
+                    $("#" + input).val(msg.url);
+                    $("#" + perview).popover({ trigger: 'hover', html: true, placement: 'right ', content: "<img src='" + getThumbAbsoluteUrl(msg.url) + "'/>" });
+                }
+            });
+
+            if ($("#" + input).val()) {
+                $("#" + perview).popover({ trigger: 'hover', html: true, placement: 'right ', content: "<img src='" + getThumbAbsoluteUrl($("#" + input).val()) + "'/>" });
+            }
+        }
+
+
+        bindFileUpload("left_uploader", "LeftAdvert", "left_perview", "left_queue");
+        bindFileUpload("right_uploader", "RightAdvert", "right_perview", "right_queue");
+        bindFileUpload("qrCodeUpload", "QrCodeUrl", "qrCode_perview", "qr_queue");
+
+    </script>
+}
+
+@using(@Html.BeginForm("Create", "Manager")) {
     <div class="portlet-body form-horizontal form-bordered form-row-stripped">
         <div class="row-fluid">
-            @Html.Hidden("ID")
+            @Html.Hidden("ID", Model.ID)
             <div class="control-group">
                 <label class="control-label"><span class="required">*</span>ICP 备案信息</label>
                 <div class="controls">
-                    @Html.TextBox("ICP", "备案信息")
+                    @Html.TextBox("ICP", Model.ICP)
                 </div>
             </div>
 
             <div class="control-group">
-                <label class="control-label">客服QQ1：</label>
+                <label class="control-label">客服QQ1</label>
                 <div class="controls">
-                    @Html.TextBox("Service1")
+                    @Html.TextBox("Service1", Model.Service1)
                 </div>
             </div>
             <div class="control-group">
                 <label class="control-label">客服QQ2</label>
                 <div class="controls">
-                    @Html.TextBox("Service2")
+                    @Html.TextBox("Service2", Model.Service2)
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">二维码地址</label>
                 <div class="controls">
-                    @Html.TextBox("QrCodeUrl")
+                    <div class="input-append">
+                        @Html.TextBoxFor(m => m.QrCodeUrl, new { @class = "m-wrap large" })
+                        <span class="add-on" title="预览" id="qrCode_perview"><i class="icon-picture"></i></span>
+                    </div>
+                    <div id="qrCodeUpload"></div>
+                    <div id="qr_queue"></div>
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.QrCodeUrl)</span>
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">公司地址</label>
                 <div class="controls">
-                    @Html.TextBox("Addr")
+                    @Html.TextBox("Addr", Model.Addr)
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">电话</label>
                 <div class="controls">
-                    @Html.TextBox("Phone")
+                    @Html.TextBox("Phone", Model.Phone)
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">手机</label>
                 <div class="controls">
-                    @Html.TextBox("Mobile")
+                    @Html.TextBox("Mobile", Model.Mobile)
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">QQ</label>
                 <div class="controls">
-                    @Html.TextBox("QQ")
+                    @Html.TextBox("QQ", Model.QQ)
                 </div>
             </div>
 
             <div class="control-group">
                 <label class="control-label">电子邮件</label>
                 <div class="controls">
-                    @Html.TextBox("Email")
+                    @Html.TextBox("Email", Model.Email)
                 </div>
             </div>
 
+            <div class="control-group">
+                <label class="control-label">左侧广告</label>
+                <div class="controls">
+                    <div class="input-append">
+                        @Html.TextBoxFor(m => m.LeftAdvert, new { @class = "m-wrap large" })
+                        <span class="add-on" title="预览" id="left_perview"><i class="icon-picture"></i></span>
+                    </div>
+                    <div id="left_uploader"></div>
+                    <div id="left_queue"></div>
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.LeftAdvert)</span>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">右侧广告</label>
+                <div class="controls">
+                    <div class="input-append">
+                        @Html.TextBoxFor(m => m.RightAdvert, new { @class = "m-wrap large" })
+                        <span class="add-on" title="预览" id="right_perview"><i class="icon-picture"></i></span>
+                    </div>
+                    <div id="right_uploader"></div>
+                    <div id="right_queue"></div>
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.RightAdvert)</span>
+                </div>
+            </div>
+
+            <button class="btn btn-large" type="submit">提交</button>
         </div>
     </div>
 }

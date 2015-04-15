@@ -3,3 +3,8 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Account.DAL.pdb
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb
+E:\Personal Development\GitGMS\bin\GMS.Account.DAL.dll
+E:\Personal Development\GitGMS\bin\GMS.Account.DAL.pdb

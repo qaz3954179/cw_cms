@@ -31,10 +31,11 @@
         if ($("#CoverPicture").val()) {
             $("#preview").popover({ trigger: 'hover', html: true, placement: 'right ', content: "<img src='" + getThumbAbsoluteUrl($("#CoverPicture").val()) + "'/>" });
         }
+        var oldName = "@Model.Name";
         $("#btnSave").click(function () {
-            $.post("/Cms/SelfNormal/AjaxSaveNormal", 
+            $.post("/Cms/SelfNormal/AjaxSaveNormal",
                     { id: $("#ID").val(), picUrl: $("#CoverPicture").val(), linkUrl: $("#PicLinkUrl").val(), titleName: $("#Name").val() },
-                    function (data) { alert(data);});
+                    function (data) { alert(data); if (oldName != $("#Name").val()) window.location.href = window.location.href.replace("#", ""); });
         });
         function btnDelArcticle(objDom) {
             if(confirm("确认删除?") ){

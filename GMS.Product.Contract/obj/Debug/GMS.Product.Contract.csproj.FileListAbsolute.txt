@@ -12,3 +12,17 @@ E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\Entity
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.csprojResolveAssemblyReference.cache
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.dll
 E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.csprojResolveAssemblyReference.cache
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Product.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Product.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\Newtonsoft.Json.dll
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.pdb
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\EntityFramework.xml
+E:\Personal Development\GitGMS\cw_cms\GMS.Product.Contract\bin\Debug\EntityFramework.dll

@@ -21,6 +21,8 @@ namespace GMS.Core.Config
         public String Crm { get; set; }
         public String OA { get; set; }
         public String Product { get; set; }
+
+        public String Site { get; set; }
         #endregion
     }
 }

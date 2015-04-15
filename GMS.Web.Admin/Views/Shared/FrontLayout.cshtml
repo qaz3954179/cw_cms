@@ -1,0 +1,51 @@
+﻿@using GMS.Web
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+ <!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <link href="@Url.StaticFile("/assets/bootstrap/css/bootstrap.min.css")" rel="stylesheet" />
+    <link href="@Url.StaticFile("/assets/css/metro.css")" rel="stylesheet" />
+    @RenderSection("PageSpecificStyleSheetIncludes", required: false)
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<body>
+    <div class="adv left-adv">
+        <div class="adv-inner">
+            <div class="close"><img src="@Url.StaticFile("/assets/img/index/close.png")" /></div>
+            <a href="#" target="_blank"><img src="@Url.StaticFile("/assets/img/index/adv.png")" /></a>
+        </div>
+    </div>
+    <div class="adv right-adv">
+        <div class="adv-inner">
+            <div class="close"><img src="@Url.StaticFile("/assets/img/index/close.png")" /></div>
+            <a href="#" target="_blank"><img src="@Url.StaticFile("/assets/img/index/adv.png")" /></a>
+        </div>
+    </div>
+    @Html.Partial("FrontHeader")
+    @Html.Partial("FrontNav")
+    <div class="container">
+       <div class="row-fluid">
+           @RenderSection("Body")
+       </div>
+       
+   </div>
+    @Html.Partial("FrontFooter");
+    <script src="@Url.StaticFile("/assets/js/jquery-1.8.3.min.js")"></script>
+    @RenderSection("PageSpecificJavascriptIncludes", required: false)
+</body>
+<!-- END BODY -->
+</html>
