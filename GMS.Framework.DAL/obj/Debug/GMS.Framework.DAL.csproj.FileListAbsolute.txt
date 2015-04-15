@@ -1,0 +1,6 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.DAL.XML
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.DAL.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.DAL.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb

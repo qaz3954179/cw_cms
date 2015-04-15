@@ -1,0 +1,5 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Service.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Service.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Service\obj\Debug\GMS.Core.Service.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Service\obj\Debug\GMS.Core.Service.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Service\obj\Debug\GMS.Core.Service.pdb

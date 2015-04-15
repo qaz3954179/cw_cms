@@ -1,0 +1,5 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Cms.Contract.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Cms.Contract.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.pdb

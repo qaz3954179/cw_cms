@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "网站信息配置";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.BeginForm("Index", "Manager") {
+    <div class="portlet-body form-horizontal form-bordered form-row-stripped">
+        <div class="row-fluid">
+            @Html.Hidden("ID")
+            <div class="control-group">
+                <label class="control-label"><span class="required">*</span>ICP 备案信息</label>
+                <div class="controls">
+                    @Html.TextBox("ICP", "备案信息")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">客服QQ1：</label>
+                <div class="controls">
+                    @Html.TextBox("Service1")
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label">客服QQ2</label>
+                <div class="controls">
+                    @Html.TextBox("Service2")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">二维码地址</label>
+                <div class="controls">
+                    @Html.TextBox("QrCodeUrl")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">公司地址</label>
+                <div class="controls">
+                    @Html.TextBox("Addr")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">电话</label>
+                <div class="controls">
+                    @Html.TextBox("Phone")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">手机</label>
+                <div class="controls">
+                    @Html.TextBox("Mobile")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">QQ</label>
+                <div class="controls">
+                    @Html.TextBox("QQ")
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">电子邮件</label>
+                <div class="controls">
+                    @Html.TextBox("Email")
+                </div>
+            </div>
+
+        </div>
+    </div>
+}

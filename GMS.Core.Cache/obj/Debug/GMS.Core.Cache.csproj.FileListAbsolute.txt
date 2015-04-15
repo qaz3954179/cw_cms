@@ -1,0 +1,5 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Cache.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Core.Cache.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb

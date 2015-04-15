@@ -1,0 +1,5 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Account.DAL.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Account.DAL.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb

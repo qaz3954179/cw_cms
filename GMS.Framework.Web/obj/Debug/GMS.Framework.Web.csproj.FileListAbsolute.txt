@@ -1,0 +1,5 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.Web.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\bin\GMS.Framework.Web.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Framework.Web\obj\Debug\GMS.Framework.Web.pdb

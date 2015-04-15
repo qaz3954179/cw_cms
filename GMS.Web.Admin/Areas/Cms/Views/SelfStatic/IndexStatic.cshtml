@@ -1,0 +1,60 @@
+﻿@using GMS.Framework.Contract
+@using GMS.Framework.Utility
+@using GMS.Framework.Web.Controls
+@using GMS.Cms.Contract
+
+@model  GMS.Cms.Contract.Channel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row-fluid">
+    <div class="span4">
+       
+    </div>
+    <div class="span8">
+        @using (Html.BeginForm(null, null, null, FormMethod.Get, new { id = "search" }))
+        {
+            <div class="dataTables_filter">
+                <label>
+                    <button type="submit" class="btn">搜索 <i class="icon-search"></i></button>
+                </label>
+                <label>
+                    <span>版块位置：</span>
+                    @Html.TextBox("Title", null, new { @class = "m-wrap small" })
+                    @Html.Hidden("ChannelId", Model.ID)
+                </label>
+            </div>
+        }
+    </div>
+</div>
+
+
+    <table class="table table-striped table-hover ">
+        <thead>
+            <tr>
+                <th> 版块位置</th>
+                <th> 图片 </th>
+                <th class="hidden-480"> 内容</th>
+                <th> 操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var m in Model.Articles)
+            {
+                <tr>
+                    <td>  @m.Title </td>
+                    <td class="hidden-240"><img width="50" src="@m.CoverPicture"></td>
+                    <td class="hidden-480">
+                        @StringUtil.CutString(StringUtil.RemoveHtml(m.Content), 100)
+                    </td>
+                    <td>
+                        <a class="btn mini purple thickbox" title='编辑文章内容' href="@Url.Action("EditArticle", null, new { id = m.ID })?TB_iframe=true&height=500&width=650">
+                            <i class="icon-edit"></i>
+                            编辑
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

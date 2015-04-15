@@ -1,0 +1,14 @@
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Product.Contract.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Product.Contract.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\EntityFramework.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\Newtonsoft.Json.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Contract.xml
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.pdb
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\GMS.Framework.Utility.xml
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\bin\Debug\EntityFramework.xml
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.csprojResolveAssemblyReference.cache
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.dll
+E:\MyProduct\IMall\SVN_FIles\SurceCode\Src\GMS.Product.Contract\obj\Debug\GMS.Product.Contract.pdb
